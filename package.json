@@ -1,0 +1,13 @@
+{
+  "name": "screepsmod-recovery",
+  "version": "0.0.1",
+  "license": "MIT",
+  "packageManager": "yarn@1.22.19",
+  "screeps_mod": true,
+  "main": "lib/index.js",
+  "keywords": [
+    "screeps",
+    "mod"
+  ],
+  "dependencies": {}
+}
