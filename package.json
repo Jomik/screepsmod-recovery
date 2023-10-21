@@ -9,5 +9,7 @@
     "screeps",
     "mod"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "tar": "^6.2.0"
+  }
 }
