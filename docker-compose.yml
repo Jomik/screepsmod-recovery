@@ -9,7 +9,7 @@ services:
       - 21025:21025/tcp
     volumes:
       - ./server-config.yml:/screeps/config.yml
-      - ./:/screeps/mods/screepsmod-recovery
+      - ./:/screeps/mods/screepsmod-backup
       - ./backups:/screeps/backups
     environment:
       MONGO_HOST: mongo
